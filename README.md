@@ -1,2 +1,2 @@
-# Swift-List-Application
-Test of Swift Application with list
+# swift_list
+Test of Swift Application with list of elements
